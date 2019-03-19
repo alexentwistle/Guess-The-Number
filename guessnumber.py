@@ -12,7 +12,6 @@ while result != guess:
 		print("Too high. Guess again?")
 		guess = int(input("Enter a number between 1 and 5:\n"))
 	else: 
-		print("Well done!")
 		break
 
 print("Well done! The number was %d." % result)

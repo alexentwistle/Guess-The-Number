@@ -15,3 +15,5 @@ while result != guess:
 		break
 
 print("Well done!!! The number was %d." % result)
+
+#TODO: Print number of guesses the user took.
